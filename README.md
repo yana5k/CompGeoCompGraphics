@@ -1,2 +1,0 @@
-# CompGeoCompGraphics
-Just labs
